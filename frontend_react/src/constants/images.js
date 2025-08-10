@@ -38,7 +38,7 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
-const images = {
+export const images = {
   email,
   mobile,
   api,
